@@ -1,0 +1,13 @@
+month,season
+September,FallSeason
+October,FallSeason
+November,FallSeason
+December,WinterSeason
+January,WinterSeason
+February,WinterSeason
+March,SpringSeason
+April,SpringSeason
+May,SpringSeason
+June,SummerSeason
+July,SummerSeason
+August,SummerSeason
